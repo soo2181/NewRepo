@@ -5,5 +5,6 @@ int main(void)           //메인함수
 {
     cout << "Hello World" << endl; //문자열 출력
     cout << "Hello my World" << endl;
+    cout << "World is mine" << endl;
     return 0; // 프로그램 끝
 }
