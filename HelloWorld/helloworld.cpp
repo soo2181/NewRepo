@@ -11,5 +11,6 @@ int main(void)
     cout << "Earth on Local repository" << endl;
     cout << "GitHub is mine" << endl;
     cout << "python is mine" << endl;
+    cout << "Linux is mine" << endl;
     return 0;
 }
