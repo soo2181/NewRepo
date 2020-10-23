@@ -3,7 +3,7 @@ using namespace std;     //네임스페이스
 
 int main(void)           //메인함수
 {
-    cout << "Hello World" << endl; //문자열 출력
+    cout << "Hello World" << endl;
     cout << "Hello my World" << endl;
     cout << "World is mine" << endl;
     cout << "Luna is mine" << endl;
