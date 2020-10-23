@@ -8,5 +8,5 @@ int main(void)           //메인함수
     cout << "World is mine" << endl;
     cout << "Luna is mine" << endl;
     cout << "Earth on Local repository" << endl;
-    return 0; // 프로그램 끝
+    return 0;
 }
