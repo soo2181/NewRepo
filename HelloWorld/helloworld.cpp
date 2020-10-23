@@ -1,5 +1,5 @@
-#include <iostream>      //해더파일
-using namespace std;     //네임스페이스
+#include <iostream>
+using namespace std;
 
 int main(void)
 {
