@@ -1,7 +1,7 @@
 #include <iostream>      //해더파일
 using namespace std;     //네임스페이스
 
-int main(void)           //메인함수
+int main(void)
 {
     cout << "Hello World" << endl;
     cout << "Hello my World" << endl;
